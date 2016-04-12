@@ -31,7 +31,7 @@ h6 {
     padding-bottom: 50px;
     text-align: center;
     color: #f8f8f8;
-    background: url(../img/intro-bg.jpg) no-repeat center center;
+    background: url(../img/ct-bg.jpg) no-repeat center center;
     background-size: cover;
 }
 
@@ -79,6 +79,10 @@ h6 {
     .intro-divider {
         width: 100%;
     }
+}
+
+.img-responsive {
+    border-radius: 100%;
 }
 
 .network-name {

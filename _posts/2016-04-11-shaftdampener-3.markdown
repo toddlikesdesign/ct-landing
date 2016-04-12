@@ -1,8 +1,8 @@
 ---
 layout: default
-img: dog.png
-category: Services
-title: 3D Device Mockups<br>by PSDCovers
+img: shaft-dampener.jpg
+category: Products
+title: Shaft Dampener
 description: |
 ---
   Turn your 2D designs into high quality, 3D
